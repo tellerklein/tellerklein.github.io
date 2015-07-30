@@ -112,7 +112,7 @@ body {
 #TKlink:active {opacity: 0.3;}
 
 #content {
-    max-width: 90%;
+    max-width: 95%;
     margin: 20px auto 40px auto;
     padding: 0;
     background: #eeeeee;
@@ -128,6 +128,7 @@ body {
     line-height: 36px;
     font-family: 'Palanquin', sans-serif;
     color: #474747;
+    max-width: 95%;
     padding: 20px 5%;
     margin: 0;
 }
@@ -143,7 +144,7 @@ body {
     #bar {
         position: static;
         margin: 0 auto;
-        width: 90%;
+        width: 95%;
     }
     
     #container {

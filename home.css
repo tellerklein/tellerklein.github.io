@@ -95,7 +95,7 @@ body {
 
 #TK {
     display: block;
-    max-width: 50%;
+    max-width: 90%;
     margin: 15% auto;
 }
 
@@ -109,7 +109,7 @@ body {
     #bar {
         position: static;
         margin: 0 auto;
-        width: 90%;
+        width: 95%;
     }
     
     #container {
