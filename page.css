@@ -104,6 +104,7 @@ body {
     font-weight: 300;
     font-size: 68px;
     letter-spacing: 24px;
+    width: 90%;
     max-width: 90%;
     margin: 10px auto;
 }
