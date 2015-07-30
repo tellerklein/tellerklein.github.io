@@ -1,44 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1150"
-   height="522"
-   viewBox="0 0 1150 522"
-   id="svg8788"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="TK0.svg">
+   id="svg8788"
+   viewBox="0 0 1150 522"
+   height="522"
+   width="1150">
   <defs
      id="defs8790" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.64727954"
-     inkscape:cx="763.19441"
-     inkscape:cy="27.500842"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     showborder="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata8793">
     <rdf:RDF>
@@ -52,62 +25,52 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-530.36216)">
+     transform="translate(0,-530.36216)"
+     id="layer1">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;letter-spacing:-7.09000015px;word-spacing:0px;text-anchor:end;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1155.2209"
-       y="780.13715"
        id="text4156"
-       sodipodi:linespacing="82.999998%"><tspan
-         sodipodi:role="line"
-         x="1131.361"
-         y="780.13715"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
-         id="tspan9361">TELLER<tspan
-   style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1"
-   id="tspan9382" /></tspan></text>
-    <text
-       sodipodi:linespacing="82.999998%"
-       id="text9384"
-       y="897.51196"
-       x="-227.49292"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:36.12661362px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:start;letter-spacing:-6.40344238px;word-spacing:0px;text-anchor:start;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       transform="scale(-1.107217,0.90316532)"><tspan
-         id="tspan9386"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:289.01290894px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:start;letter-spacing:-21.54952431px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
-         y="897.51196"
-         x="-227.49292"
-         sodipodi:role="line" /><tspan
-         id="tspan9388"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:289.01290894px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:start;letter-spacing:-21.54952431px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
-         y="1137.3927"
-         x="-227.49292"
-         sodipodi:role="line"><tspan
-           id="tspan9390"
-           style="text-align:start;letter-spacing:-32.03527451px;text-anchor:start;fill:#fcfcfc;fill-opacity:1">/</tspan></tspan></text>
-    <text
-       sodipodi:linespacing="82.999998%"
-       id="text9400"
        y="786.13715"
-       x="1145.1813"
+       x="1155.2209"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;letter-spacing:-7.09000015px;word-spacing:0px;text-anchor:end;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         id="tspan9402"
+         id="tspan9361"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
          y="786.13715"
+         x="1131.361">TELLER<tspan
+   id="tspan9382"
+   style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1" /></tspan></text>
+    <text
+       transform="scale(-1.107217,0.90316532)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:36.12661362px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:start;letter-spacing:-6.40344238px;word-spacing:0px;text-anchor:start;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-240.13727"
+       y="890.86871"
+       id="text9384"><tspan
+         x="-240.13727"
+         y="890.86871"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:289.01290894px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:start;letter-spacing:-21.54952431px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
+         id="tspan9386" /><tspan
+         x="-240.13727"
+         y="1130.7494"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:289.01290894px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:start;letter-spacing:-21.54952431px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
+         id="tspan9388"><tspan
+           style="text-align:start;letter-spacing:-32.03527451px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
+           id="tspan9390">/</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;letter-spacing:-7.09000015px;word-spacing:0px;text-anchor:end;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1145.1813"
+       y="780.13715"
+       id="text9400"><tspan
          x="1145.1813"
-         sodipodi:role="line" /><tspan
-         id="tspan9404"
+         y="780.13715"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
-         y="1051.7372"
+         id="tspan9402" /><tspan
          x="1109.7113"
-         sodipodi:role="line">KLE<tspan
-   id="tspan9406"
-   style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1">IN</tspan></tspan></text>
+         y="1045.7372"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+         id="tspan9404">KLE<tspan
+   style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1"
+   id="tspan9406">IN</tspan></tspan></text>
   </g>
 </svg>
