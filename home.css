@@ -95,7 +95,7 @@ body {
 
 #TK {
     display: block;
-    max-width: 90%;
+    max-width: 60%;
     margin: 15% auto;
 }
 
@@ -118,7 +118,7 @@ body {
     
     #TK {
         margin: 40px auto;
-        max-width: 70%;
+        max-width: 80%;
     }
     
     .navlink {
