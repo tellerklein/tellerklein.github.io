@@ -27,50 +27,69 @@
   <g
      transform="translate(0,-530.36216)"
      id="layer1">
-    <text
-       id="text4156"
-       y="786.13715"
-       x="1155.2209"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;letter-spacing:-7.09000015px;word-spacing:0px;text-anchor:end;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan9361"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
-         y="786.13715"
-         x="1131.361">TELLER<tspan
-   id="tspan9382"
-   style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1" /></tspan></text>
-    <text
-       transform="scale(-1.107217,0.90316532)"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:36.12661362px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:start;letter-spacing:-6.40344238px;word-spacing:0px;text-anchor:start;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-240.13727"
-       y="890.86871"
-       id="text9384"><tspan
-         x="-240.13727"
-         y="890.86871"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:289.01290894px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:start;letter-spacing:-21.54952431px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
-         id="tspan9386" /><tspan
-         x="-240.13727"
-         y="1130.7494"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:289.01290894px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:start;letter-spacing:-21.54952431px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
-         id="tspan9388"><tspan
-           style="text-align:start;letter-spacing:-32.03527451px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
-           id="tspan9390">/</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;letter-spacing:-7.09000015px;word-spacing:0px;text-anchor:end;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1145.1813"
-       y="780.13715"
-       id="text9400"><tspan
-         x="1145.1813"
-         y="780.13715"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
-         id="tspan9402" /><tspan
-         x="1109.7113"
-         y="1045.7372"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
-         id="tspan9404">KLE<tspan
-   style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1"
-   id="tspan9406">IN</tspan></tspan></text>
+    <g
+       id="g9429">
+      <g
+         id="text4156"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;letter-spacing:-7.09000015px;word-spacing:0px;text-anchor:end;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path9443"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 225.77094,538.4809 0,34.84375 -73.90625,0 0,213.4375 -43.59375,0 0,-213.4375 -73.281249,0 0,-34.84375 190.781249,0 z" />
+        <path
+           id="path9445"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 405.50469,538.4809 0,34.21875 -120.78125,0 0,65.625 91.25,0 0,34.21875 -91.25,0 0,80 123.28125,0 0,34.21875 -166.40625,0 0,-248.28125 163.90625,0 z" />
+        <path
+           id="path9447"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 468.83219,538.4809 0,213.4375 116.40625,0 0,34.84375 -160,0 0,-248.28125 43.59375,0 z" />
+        <path
+           id="path9449"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 644.97217,538.4809 0,213.4375 116.40625,0 0,34.84375 -160,0 0,-248.28125 43.59375,0 z" />
+        <path
+           id="path9451"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 941.42469,538.4809 0,34.21875 -120.78125,0 0,65.625 91.25,0 0,34.21875 -91.25,0 0,80 123.28125,0 0,34.21875 -166.40625,0 0,-248.28125 163.90625,0 z" />
+        <path
+           id="path9453"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 961.15845,538.4809 89.21875,0 q 87.9688,0 87.9688,67.5 0,24.84375 -14.375,41.5625 -12.6563,14.84375 -34.8438,21.5625 l 57.3438,117.65625 -46.4063,0 -50.3125,-111.25 -11.25,0.3125 -35.1562,0 0,110.9375 -42.18755,0 0,-248.28125 z m 42.18755,32.34375 0,72.96875 43.2812,0 q 48.5938,0 48.5938,-37.1875 0,-35.78125 -46.7188,-35.78125 l -45.1562,0 z" />
+      </g>
+      <g
+         id="text9384"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:36.12661362px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:start;letter-spacing:-6.40344238px;word-spacing:0px;text-anchor:start;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="scale(-1.107217,0.90316532)">
+        <path
+           id="path9456"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:289.01290894px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:start;letter-spacing:-21.54952431px;text-anchor:start;fill:#fcfcfc;fill-opacity:1"
+           d="M -99.864401,883.64903 -217.55813,1158.55 l -25.42975,0 117.69373,-274.90097 z" />
+      </g>
+      <g
+         id="text9400"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;line-height:82.99999833%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;letter-spacing:-7.09000015px;word-spacing:0px;text-anchor:end;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path9459"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 477.38752,798.08089 -85.9375,98.75 93.4375,149.53121 -49.0625,0 -72.34375,-119.37496 -29.0625,32.65625 0,86.71871 -42.5,0 0,-248.28121 42.5,0 0,113.28125 93.75,-113.28125 49.21875,0 z" />
+        <path
+           id="path9461"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 541.02752,798.08089 0,213.43751 116.40625,0 0,34.8437 -160,0 0,-248.28121 43.59375,0 z" />
+        <path
+           id="path9463"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:320px;line-height:82.99999833%;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic Bold';text-align:end;letter-spacing:-23.8599987px;text-anchor:end;fill:#fcfcfc;fill-opacity:1"
+           d="m 837.48002,798.08089 0,34.21875 -120.78125,0 0,65.625 91.25,0 0,34.21875 -91.25,0 0,80.00001 123.28125,0 0,34.2187 -166.40625,0 0,-248.28121 163.90625,0 z" />
+        <path
+           id="path9465"
+           style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1"
+           d="m 900.8075,798.08089 0,248.28121 -43.59375,0 0,-248.28121 43.59375,0 z" />
+        <path
+           id="path9467"
+           style="letter-spacing:-35.47000122px;fill:#fcfcfc;fill-opacity:1"
+           d="m 1115.3375,798.08089 0,248.28121 -52.8125,0 -60.1562,-127.96871 q -19.21877,-41.40625 -35.62502,-82.03125 l -4.375,0 q 2.1875,41.25 2.1875,89.6875 l 0,120.31246 -39.6875,0 0,-248.28121 65,0 51.56252,110 q 19.0625,42.1875 32.9687,85.15625 l 4.375,0 q -3.125,-50.625 -3.125,-90.9375 l 0,-104.21875 39.6875,0 z" />
+      </g>
+    </g>
   </g>
 </svg>
