@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #eeeeee;
+    background-image: url("1.png");
+    background-attachment: fixed;
+    height: 100%;
+}
+
+#bar {
+    position: fixed;
+    height: 100%;
+    width: 256px;
+    top: 0;
+    left: 0;
+    background: #eeeeee;
+    text-align: right;
+    overflow-y: scroll;
+}
+
+#tk {
+    display: block;
+    font-size: 40px;
+    font-weight: 100;
+    letter-spacing: -1px;
+    font-family: 'Palanquin', sans-serif;
+    color: #474747;
+    padding: 40px 6px 40px 6px;
+    margin: 0 40px 0 0;
+    cursor: default;
+    border-bottom: 1px solid #cccccc;
+}
+
+#links {
+    padding: 0px 40px 30px 0;
+}
+
+.navlink {
+    color: #474747;
+    text-decoration: none;
+    cursor: default;
+    line-height: 28px;
+    font-size: 26px;
+    letter-spacing: -1.5px;
+    font-family: 'Palanquin', sans-serif;
+    font-weight: 100;
+    display: block;
+    padding: 0 6px 2px 6px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.navlink:hover {
+    background: #fcfcfc;
+}
+
+.navlink:active {
+    background: #ffffff;
+}
+
+#extra {
+    padding: 0px 40px 30px 50px;
+}
+
+#logo {
+    display: block;
+    max-width: 100%;
+    margin: 100px auto 0 auto;
+}
+
+#text {
+    display: block;
+    height: 240px;
+}
+
+#crap {
+    text-align: center;
+    display: block;
+    padding: 20px 50px;
+    color: #cccccc;
+    background: #eeeeee;
+    font-family: 'Palanquin', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+#container {
+    margin: 0 0 0 256px;
+    padding: 0px;
+}
+
+#TK {
+    display: block;
+    max-width: 50%;
+    margin: 15% auto;
+}
+
+#TKlink {
+    cursor: default;
+}
+
+#TKlink:active {opacity: 0.7;}
+
+@media (max-width: 600px) {
+    #bar {
+        position: static;
+        margin: 0 auto;
+        width: 90%;
+    }
+    
+    #container {
+        margin: 0;
+    }
+    
+    #TK {
+        margin: 40px auto;
+        max-width: 70%;
+    }
+    
+    .navlink {
+        font-size: 28px;
+        padding: 4px 6px;
+    }
+}
